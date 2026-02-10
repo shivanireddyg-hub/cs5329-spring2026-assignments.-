@@ -50,5 +50,5 @@ No, it would not be practical to compute `fib_recursive(50)`. The recursive appr
 
 d. How does memoization change the nature of the recurrence?
 
-Memoization stores the result of each computed Fibonacci number so it can be reused later. Instead of recalculating the same values repeatedly, the program looks them up from memory. This removes redundant computations and reduces the time complexity from exponential to linear.
+Memoization stores the result of each computed Fibonacci number so it can be reused later. Instead of recalculating the same values repeatedly, the program looks them up from memory.This removes redundant computations and reduces the time complexity from exponential to linear.
 
