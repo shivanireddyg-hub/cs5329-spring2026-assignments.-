@@ -76,7 +76,7 @@ Four categories of test data were generated:
 
 ---
 
-### Analysis (300 words)
+### Analysis 
 
 The experimental results show that the **weight-to-resource ratio strategy consistently outperforms earliest-finish in most constrained scenarios**. This is particularly evident in dense and category-heavy cases, where resource limitations and overlap conflicts dominate decision-making. By prioritizing value efficiency, the ratio method is better able to allocate scarce resources to high-impact tasks.
 
@@ -100,14 +100,3 @@ In a real-world system, I would combine greedy heuristics with more powerful opt
 
 ---
 
-# ✅ What you can do now
-
-* You now have **TWO full versions**
-* Pick one OR mix both for originality
-* Save as:
-
-```bash
-analysis.md
-```
-
----
